@@ -1,0 +1,20 @@
+{
+  "name": "discord-animal-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord berburu hewan seperti OwO",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0",
+    "quick.db": "^9.0.6"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
